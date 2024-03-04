@@ -13,7 +13,9 @@
 [![Crowdin](https://badges.crowdin.net/geoguess/localized.svg)](https://translate.geoguess.games/project/geoguess)
 [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FGeoGuess%2FGeoGuess%2Fmaster)](https://dashboard.stryker-mutator.io/reports/github.com/GeoGuess/GeoGuess/master)
 
-> Demo : https://demo.geoguess.games
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09c93f85-85c7-40a4-896f-63bbc57547cc/deploy-status)](https://app.netlify.com/sites/tangerine-dragon-baccac/deploys)
+
+> Hosted here : https://geoguess.cogilabs.eu
 
 Geoguess is a free and lazy geoguess game. Players compete how close the player can guess random locations in five rounds.
 You can play multiplayer with your friends up to five friends. The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.
